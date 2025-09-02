@@ -11,6 +11,11 @@ description              : "A researcher who loves listening to music, doing spo
 repository               : "K5urum1Z3/K5urum1Z.github.io"
 google_scholar_stats_use_cdn : true
 
+
+# Add these lines
+url: "https://K5urum1Z3.github.io"    # Your GitHub Pages URL
+baseurl: ""
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
