@@ -32,6 +32,7 @@ In my spare time, I enjoy sports, listening to music (especially G.E.M.), and wa
 # 📝 Publications 
 
 # 🎖 Honors and Awards
+- *2024.12*: &nbsp; Chinese National Scholarship, Top 0.2% Nationwide
 
 
 # 📖 Educations
