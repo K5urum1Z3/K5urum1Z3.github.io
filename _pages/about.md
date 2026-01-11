@@ -25,7 +25,7 @@ In my spare time, I enjoy sports, listening to music (especially G.E.M.), and wa
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 My first paper has been submitted to AAAI 2026.
+- *2025.11*: &nbsp;🎉🎉 My first paper has been submitted to CVPR 2026.
 
 
 
