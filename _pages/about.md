@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student at the School of Mathematics, Hefei University of Technology (HFUT), majoring in Information and Computational Science. I am set to begin my doctoral studies at the School of Information and Electronic Engineering, Shanghai Jiao Tong University (SJTU).
 
-My research interests lie in 3D Vision Encoding and Compression, AIGC, and related fields. I am passionate about developing new techniques for efficient 3D data representation and processing, as well as exploring the potentials of artificial intelligence in content generation.
+My research interests lie in 3D Vision, Sence Editing, AIGC, and related fields. I am passionate about developing new techniques for efficient 3D data representation and processing, as well as exploring the potentials of artificial intelligence in content generation.
 
 In my spare time, I enjoy sports, listening to music (especially G.E.M.), and watching anime.
 
