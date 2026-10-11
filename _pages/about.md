@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student majoring in Information and Computational Science at the School of Mathematics, Hefei University of Technology (HFUT). I am set to begin my doctoral studies at the School of Information and Electronic Engineering, Shanghai Jiao Tong University (SJTU).
+I am a first-year Ph.D. student (2026 cohort) in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU). I received my bachelor's degree in Information and Computational Science from the School of Mathematics, Hefei University of Technology (HFUT) in 2026.
 
 With a background in mathematics and computational science, I am particularly interested in understanding visual intelligence from the perspective of representation, structure, and dynamics. My research interests include 3D Vision, Representation Learning, Generative Models, and World Models. I am passionate about developing principled and efficient representations for 3D data, and exploring how mathematical modeling, learning-based methods, and generative intelligence can be combined to better perceive, reconstruct, edit, and simulate the physical world.
 
@@ -36,8 +36,7 @@ In my spare time, I enjoy sports, listening to music, especially G.E.M., and wat
 
 
 # 📖 Educations
-- *2022.09 - Now*, Bachelor of Information and Computational Science, School of Mathematics, Hefei University of Technology.
-
-<h1 id="-invited-talks">🎤 Invited Talks</h1>
+- *2026 - Present*, Ph.D. student, Department of Electronic Engineering, Shanghai Jiao Tong University.
+- *2022 - 2026*, Bachelor's degree in Information and Computational Science, School of Mathematics, Hefei University of Technology.
 
 <h1 id="-internships">💼 Internships</h1>

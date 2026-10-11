@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junjie Zhao's Homepage"
-description              : "A researcher who loves listening to music, doing sports and watching anime"
+description              : "A Ph.D. student who loves listening to music, doing sports and watching anime"
 repository               : "K5urum1Z3/K5urum1Z.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,10 +27,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junjie Zhao"
-  avatar           : "images/android-chrome-192x192.png"
+  avatar           : "images/profile.jpg"
   bio              : "Driven by passion to go further, guided by reason to understand the world."
-  location         : "Hefei, China"
-  employer         :
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fKjm6uMAAAAJ&hl=en"
   email            : "junjiezhao326@mail.hfut.edu.cn"
