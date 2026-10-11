@@ -38,6 +38,6 @@ In my spare time, I enjoy sports, listening to music, especially G.E.M., and wat
 # 📖 Educations
 - *2022.09 - Now*, Bachelor of Information and Computational Science, School of Mathematics, Hefei University of Technology.
 
-<h1 id="-invited-talks">Invited Talks</h1>
+<h1 id="-invited-talks">🎤 Invited Talks</h1>
 
-<h1 id="-internships">Internships</h1>
+<h1 id="-internships">💼 Internships</h1>
