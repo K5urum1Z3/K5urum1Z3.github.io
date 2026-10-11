@@ -21,7 +21,12 @@ I am a first-year Ph.D. student (2026 cohort) in the Department of Electronic En
 
 With a background in mathematics and computational science, I am particularly interested in understanding visual intelligence from the perspective of representation, structure, and dynamics. My research interests include 3D Vision, Representation Learning, Generative Models, and World Models. I am passionate about developing principled and efficient representations for 3D data, and exploring how mathematical modeling, learning-based methods, and generative intelligence can be combined to better perceive, reconstruct, edit, and simulate the physical world.
 
-In my spare time, I enjoy sports, listening to music, especially G.E.M., and watching anime.
+<div class="personal-interests" role="group" aria-label="Beyond research: my personal interests">
+  <span class="personal-interests__label">Beyond research</span>
+  <span class="interest interest--music"><i class="fas fa-headphones" aria-hidden="true"></i><span>Music · <strong>G.E.M.</strong></span></span>
+  <span class="interest interest--basketball"><i class="fas fa-basketball-ball" aria-hidden="true"></i><span>Basketball</span></span>
+  <span class="interest interest--kurumi" aria-label="Anime: Kurumi Tokisaki from Date A Live"><i class="fas fa-clock" aria-hidden="true"></i><span><strong>Kurumi Tokisaki</strong><span class="interest__series"> · Date A Live</span></span></span>
+</div>
 
 
 # 🔥 News

@@ -107,3 +107,46 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* A small personal note beneath the academic introduction. */
+.personal-interests {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .45em .65em;
+    margin: 1em 0 .5em;
+    font-size: .85em;
+    line-height: 1.5;
+}
+
+.personal-interests__label {
+    color: #737373;
+    margin-right: .2em;
+}
+
+.interest {
+    display: inline-flex;
+    align-items: center;
+    gap: .5em;
+    padding: .25em .7em;
+    border: 1px solid #e8e5e2;
+    border-radius: 20px;
+    background: #faf9f7;
+    color: #454545;
+}
+
+.interest strong { font-weight: 600; }
+.interest--music > i { color: #6c6085; }
+.interest--basketball > i { color: #ad652b; }
+.interest--kurumi {
+    color: #742f40;
+    border-color: #e3ced2;
+    background: #fcf6f7;
+    box-shadow: inset 3px 0 0 #a17d3b;
+}
+.interest--kurumi > i { color: #98712e; }
+.interest__series { color: #776367; }
+
+@media (max-width: 600px) {
+    .personal-interests__label { flex-basis: 100%; }
+}
