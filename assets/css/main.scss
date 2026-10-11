@@ -151,12 +151,12 @@ h1:before, .anchor:before {
     .personal-interests__label { flex-basis: 100%; }
 }
 
-/* Quiet warm neutrals with burgundy and antique-gold accents. */
+/* Soft blue background with burgundy and antique-gold accents. */
 body {
     color: #403c3b;
-    background-color: #f4f1ed;
-    background-image: radial-gradient(ellipse at top right, #f4e8eb 0, transparent 55%),
-                      radial-gradient(ellipse at bottom left, #eee6d8 0, transparent 55%);
+    background-color: #edf4fb;
+    background-image: radial-gradient(ellipse at top right, #e1edfa 0, transparent 55%),
+                      radial-gradient(ellipse at bottom left, #e8f3f8 0, transparent 55%);
     min-height: 100vh;
 }
 
